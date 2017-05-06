@@ -1,0 +1,10 @@
+*.txt
+*.bin
+*.project
+*.class
+*.csv
+*.prefs
+*.MF
+*.classpath
+*.properties
+target
